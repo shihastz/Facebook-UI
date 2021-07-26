@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Facebook-UI/static/css/main.d6d1842a.chunk.css",
+    "main.js": "/Facebook-UI/static/js/main.e36338e3.chunk.js",
+    "main.js.map": "/Facebook-UI/static/js/main.e36338e3.chunk.js.map",
+    "runtime-main.js": "/Facebook-UI/static/js/runtime-main.4fb7a9e6.js",
+    "runtime-main.js.map": "/Facebook-UI/static/js/runtime-main.4fb7a9e6.js.map",
+    "static/js/2.a33499fe.chunk.js": "/Facebook-UI/static/js/2.a33499fe.chunk.js",
+    "static/js/2.a33499fe.chunk.js.map": "/Facebook-UI/static/js/2.a33499fe.chunk.js.map",
+    "index.html": "/Facebook-UI/index.html",
+    "static/css/main.d6d1842a.chunk.css.map": "/Facebook-UI/static/css/main.d6d1842a.chunk.css.map",
+    "static/js/2.a33499fe.chunk.js.LICENSE.txt": "/Facebook-UI/static/js/2.a33499fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fb7a9e6.js",
+    "static/js/2.a33499fe.chunk.js",
+    "static/css/main.d6d1842a.chunk.css",
+    "static/js/main.e36338e3.chunk.js"
+  ]
+}
